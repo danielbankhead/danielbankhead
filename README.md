@@ -1,4 +1,8 @@
-### Hi there 👋
+### Daniel Bankhead
+
+#### Entrepreneur. Engineer. Photographer.
+
+Welcome to my GitHub. 👨🏽‍💻
 
 <!--
 **danielbankhead/danielbankhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
