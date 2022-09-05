@@ -1,6 +1,6 @@
 ### Daniel Bankhead
 
-An entrepreneurial, empathetic engineer with a passion for building quality products.
+An empathetic engineer with a passion for building quality products.
 
 Developer Relations Engineer [@Google](https://github.com/google). 🌎
 
