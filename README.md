@@ -2,7 +2,7 @@
 
 An empathetic engineer with a passion for building quality products.
 
-Software Engineer [@Google](https://github.com/google). 🌎
+Software Engineer. 🌎
 
 Photographer. 📸
 
